@@ -9,7 +9,7 @@ The backend, frontend and agent tools are complete, and both servers run locally
 ```
 Error code: 429 - {'error': {'message': 'The organization has insufficient balance.', 'type': 'rate_limit_error'}}
 ```
-![Thesys returns 429: insufficient balance](docs/images/error-429.png)
+![Thesys returns 429: insufficient balance](docs/images/chat-ui.png)
 
 
 I confirmed this is an account balance issue, not a code or configuration issue:
